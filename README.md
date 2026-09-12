@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="assets/quote.jpg" alt="pressure is a privilege" width="360"/>
+  <img src="assets/quote.jpg" alt="pressure is a privilege" width="300"/>
 </p>
 
 ---
@@ -51,7 +51,6 @@ when the code gets heavy I reach for coffee.
   <a href="https://codeforces.com/profile/evantampa129"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://leetcode.com/u/evantampa129/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.kaggle.com/evantampa129"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
