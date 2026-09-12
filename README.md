@@ -16,35 +16,31 @@
 
 ---
 
+<p align="center">
+  <img src="assets/quote.jpg" alt="pressure is a privilege" width="360"/>
+</p>
+
+---
+
 ```
 $ whoami
 ```
 
-CS student at NKUA, Athens. I think in proofs and write in C.
+CS student at NKUA, Athens. I write **C** when I want control, **C++** when I want
+power, and **Python** when I want to get home early.
+
+Interested in systems, algorithms, mathematics, and anything low-level enough
+to make me question my life choices.
 
 When the math gets heavy I reach for LaTeX,
 when the code gets heavy I reach for coffee.
 
 ---
 
-<p align="center">
-
-$$e^{i\pi} + 1 = 0$$
-
-</p>
-
----
-
-<p align="center">
-  <img src="assets/quote.jpg" alt="quote" width="360"/>
-</p>
-
----
-
 ### 🔧 stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,latex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,latex,linux,bash,git,vim,vscode&theme=dark" />
 </p>
 
 ---
@@ -61,6 +57,8 @@ $$e^{i\pi} + 1 = 0$$
 ---
 
 ### 🔐 ctf
+
+*think you can crack it?*
 
 ```
 level_0: 666c61677b48656172745f6f665f7468655f436f64657d
